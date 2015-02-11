@@ -4,15 +4,15 @@ highlighter:      pygments
 
 # Permalinks
 
-permalink: /:title.html
-relative_permalinks: false
+permalink: :title.html
+relative_permalinks: true
 
 # Setup
 title:            Mafalda Macx
 tagline:          Política computacional
 url:              https://mafaldamacx.github.io/blog/
 paginate:         1
-baseurl:          https://mafaldamacx.github.io/blog/
+baseurl:          
 author:
   name:           Mafalda Macx
   url:            https://mafaldamacx.github.io
