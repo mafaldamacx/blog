@@ -11,7 +11,7 @@ relative_permalinks: true
 title:            Mafalda Macx
 tagline:          Política computacional
 paginate:         4
-url:              https://mafaldamacx.github.io/
+absoluteurl:              https://mafaldamacx.github.io/blog/
 baseurl:          /blog/
 author:
   name:           Mafalda Macx
