@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Mafalda Macx
+tagline:          Política computacional
+url:              https://mafaldamacx.github.io/blog/
 paginate:         1
-baseurl:          /
+baseurl:          https://mafaldamacx.github.io/blog/
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Mafalda Macx
+  url:            https://mafaldamacx.github.io
+  email:          mafaldamacx@yahoo.com
 
 # Custom vars
 version:          1.0.0
